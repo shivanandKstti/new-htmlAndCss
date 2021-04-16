@@ -1,0 +1,14 @@
+body {
+    background: url("/images/cat.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    border: 3px solid red;
+    width: 300px;
+    padding: 20px;
+    margin: 200px auto;
+    font-size: 3em;
+}
